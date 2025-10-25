@@ -34,3 +34,4 @@ glob2==0.7
 
 # ==== Optional (recommended for Jupyter or notebook environments) ====
 ipykernel==6.29.5
+ipywidgets==8.2.7
